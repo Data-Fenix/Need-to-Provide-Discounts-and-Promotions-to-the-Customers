@@ -98,7 +98,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## License
 
-Copyright 2022 Lahiru Dissanayake and Shashi Withange
+Copyright 2022 Lahiru Dissanayake and Thamal Adhikari
 
 ## Credits
 
